@@ -1,6 +1,8 @@
 # Google Traffic Analysis
 
-The project objective was to analyse a Google traffic trace and build an optimal pair of dispatcher and scheduler to minimize the jobs response time and comparing it against a baseline (LWL dispatcher and FCFS scheduler).
+The project objective was to analyse a Google traffic trace and to build an optimal pair of dispatcher and scheduler to minimize the jobs response time and comparing it against a baseline (LWL dispatcher and FCFS scheduler).
+
+The dataset was provided by our Professor and it consist of a month of the Google traffic trace.
 
 We divided the jobs in 4 categories:
 
